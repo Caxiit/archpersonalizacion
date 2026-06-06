@@ -1,2 +1,2 @@
-# archpersonalizacion
+# ArchPersonal
 personalizacion de mi arch personal.
