@@ -104,16 +104,7 @@ git status
 git diff --cached
 ```
 
-No subir:
-
-- llaves SSH o GPG;
-- archivos `.env`;
-- tokens de GitHub, Discord, APIs, etc.;
-- bases de datos de KeePass;
-- historiales de shell;
-- documentos personales;
-- capturas con datos privados.
 
 ## Notas personales
 
-Este setup representa mi entorno de aprendizaje y trabajo para Linux, programación, redes, homelab y ciberseguridad. La idea es tener una base rápida, estética y reproducible para volver a levantar mi Arch sin perder tiempo configurando todo desde cero.
+Este setup representa mi entorno de trabajo para Linux, Programación y ciberseguridad. La idea es Levantar mi Arch sin perder tiempo configurando todo desde cero DENUEVO.
