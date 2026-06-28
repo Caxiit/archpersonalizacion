@@ -1,8 +1,7 @@
 # ArchPersonal - Arch Linux + i3 + Polybar + Picom
 
-Repositorio personal de configuración para mi entorno **Arch Linux ligero**, pensado para una PC modesta pero usable, rápida y con estética limpia tipo Dracula/purple.
-
-> Este repo es para respaldar y restaurar mi entorno gráfico personal. No debería contener contraseñas, llaves SSH, tokens, cookies, historiales privados ni archivos personales.
+Repositorio personal de configuración para mi entorno **Arch Linux ligero.**
+> Este repo es para respaldar y restaurar mi entorno gráfico personal.
 
 ## Setup principal
 
